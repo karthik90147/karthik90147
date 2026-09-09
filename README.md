@@ -106,14 +106,6 @@ A Django-based emergency management platform designed to manage incidents, coord
 
 ---
 
-## 🌐 Personal Portfolio
-
-A responsive developer portfolio website built to showcase my skills, projects and experience.
-
-**Technologies:** HTML · CSS · JavaScript
-
----
-
 # 📚 Currently Learning
 
 - Advanced Frappe Framework development
