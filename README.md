@@ -1,131 +1,116 @@
-# 👋 Hi, I'm Nani Karthik
+<h1 align="center">Hi, I'm Nani Karthik 👋</h1>
 
-### Frappe / ERPNext Developer | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%28MERN%29;Building+ERP+apps+with+Frappe+%26+ERPNext;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Open+to+fresher+roles+%7C+2026+batch" alt="Typing SVG" />
+</p>
 
-I'm a Computer Science Engineering student and developer focused on building practical business applications and full-stack web applications.
-
-I enjoy turning real-world workflows into reliable software — especially ERP systems, inventory workflows, APIs, and modern web applications.
-
----
-
-## 🚀 About Me
-
-- 💼 Working with **Frappe Framework & ERPNext**
-- 🐍 Building backend logic with **Python**
-- 🌐 Building full-stack applications with **JavaScript, React, Node.js & Express**
-- 🗄️ Working with **MariaDB, SQL & MongoDB**
-- 🔧 Interested in ERP customization, business workflows and automation
-- 📚 Continuously learning software architecture and backend development
+<p align="center">
+  <a href="https://github.com/karthik90147"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-Fresher_Roles-2EA44F?style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### ERP & Backend
+I'm a Computer Science and Engineering graduate (2026 batch) who builds practical business applications and full-stack web apps. I enjoy turning real-world workflows into reliable software — especially ERP systems, REST APIs and modern web applications.
 
-![Frappe](https://img.shields.io/badge/Frappe-Framework-blue)
-![ERPNext](https://img.shields.io/badge/ERPNext-ERP-green)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-orange)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-
-### Database
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- 🔭 Currently building business apps with the **Frappe Framework & ERPNext**
+- 🌐 Core stack: **MongoDB, Express.js, React & Node.js (MERN)**
+- 🏋️ Built a full **Gym Management** Frappe app with a staff app and member portal
+- 🌱 Learning: **advanced Frappe development, ERPNext customization and database design**
+- 💬 Ask me about: MERN apps, Frappe/ERPNext, REST APIs or Python backends
+- 🟢 **Open to fresher software engineering roles**
 
 ---
 
-# 🔨 Featured Projects
+### 🛠️ Tech Stack
 
-## 🏋️ Gym Management
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-A custom Frappe app for running a gym, built on the Frappe Framework alongside ERPNext.
+**Full-Stack (MERN)**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Features
+**ERP & Backend**
+![Frappe](https://img.shields.io/badge/Frappe-Framework-0089FF?style=flat)
+![ERPNext](https://img.shields.io/badge/ERPNext-ERP-green?style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=flat)
 
-- Member management
-- Membership plans and renewals
-- Attendance tracking
-- Online fee payments through the Frappe Payments app (portal "Pay now")
-- Custom Frappe DocTypes and server-side business logic
+**Databases**
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Technologies:** Frappe · ERPNext · Python · JavaScript · MariaDB
+**AI / LLM**
+LangChain · LLMs · Prompt Engineering · RAG · AI Agents · MCP
 
----
-
-## 🔄 Skill Swap
-
-A full-stack platform where users can create profiles, showcase their skills and connect with others to exchange knowledge.
-
-### Features
-
-- User profiles
-- Skill listings
-- Skill discovery
-- User connections
-- REST API backend
-- MongoDB data storage
-
-**Technologies:** React · Node.js · Express.js · MongoDB
-
----
-
-## 🚨 Emergency Response System
-
-A Django-based emergency management platform designed to manage incidents, coordinate responders and provide analytics.
-
-### Features
-
-- Emergency incident management
-- Responder coordination
-- Incident tracking
-- Severity classification
-- Location tracking
-- Interactive maps
-- Analytics dashboard
-- AI-assisted emergency classification
-
-**Technologies:** Django · Python · REST API · YOLOv8 · OpenCV · Leaflet
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-# 📚 Currently Learning
+### 💼 Experience
 
-- Advanced Frappe Framework development
-- ERPNext customization
-- ERP business workflows
-- Frappe Client Scripts & Server Scripts
-- REST API development
-- Database design
-- Production-ready full-stack architecture
+**UI/UX Design Intern** — InternPe *(Oct 2024 – Nov 2024)*
+Worked on UI/UX design projects, including interface designs built into interactive HTML/JavaScript demos.
 
 ---
 
-# 🎯 Career Goal
+### 📌 Featured Projects
 
-My goal is to grow as a **Frappe / ERPNext Developer and Full-Stack Developer**, working on real business problems and building reliable software that people actually use.
-
----
-
-# 🤝 Let's Connect
-
-- 💻 GitHub: [@karthik90147](https://github.com/karthik90147)
+| Project | What it does |
+|---|---|
+| 🔗 [**Skill Swap**](https://github.com/karthik90147/skill-swap) | A full-stack MERN platform where users create profiles, list their skills and connect with others to exchange knowledge, backed by a REST API and MongoDB. |
+| 🔗 [**Gym Management**](https://github.com/karthik90147/Gym_Management) | A Frappe app covering members, plans, memberships, payments, attendance, classes, trainers and workout plans, with a staff app (`/gym`), a member portal (`/gym-portal`), role-based access and a daily scheduled job for membership status and expiry reminders. |
+| 🔗 [**Emergency Response System**](https://github.com/karthik90147/emergency-response-system) | A Django platform for managing incidents and coordinating responders, with severity classification, interactive maps, an analytics dashboard and AI-assisted emergency classification (YOLOv8, OpenCV, Leaflet). |
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthik90147&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik90147&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik90147&hide_border=true" />
+</p>
+
+> These cards pull live from the GitHub API, so they always reflect current activity — no manual updates needed.
+
+---
+
+### 📜 Certifications
+
+- Java — Infosys Springboard
+- Python — NPTEL
+
+---
+
+### 🎯 Career Goal
+
+To start my career as a **Full-Stack Developer**, working on real business problems and building reliable software that people actually use.
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/karthik90147">GitHub</a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — if any of these projects are useful to you, a ⭐ is always appreciated.</i></p>
