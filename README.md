@@ -52,19 +52,17 @@ I enjoy turning real-world workflows into reliable software — especially ERP s
 
 # 🔨 Featured Projects
 
-## 🏪 Supermarket ERP
+## 🏋️ Gym Management
 
-A Frappe/ERPNext-based ERP project designed around practical supermarket workflows.
+A custom Frappe app for running a gym, built on the Frappe Framework alongside ERPNext.
 
-### Focus
+### Features
 
-- Purchase management
-- Supplier management
-- Item management
-- Stock management
-- Sales workflows
-- Inventory operations
-- ERP business logic
+- Member management
+- Membership plans and renewals
+- Attendance tracking
+- Online fee payments through the Frappe Payments app (portal "Pay now")
+- Custom Frappe DocTypes and server-side business logic
 
 **Technologies:** Frappe · ERPNext · Python · JavaScript · MariaDB
 
